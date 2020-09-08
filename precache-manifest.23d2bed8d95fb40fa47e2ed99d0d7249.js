@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08e545f40e648714731a077374b6c0f6",
+    "revision": "f74d184f9ead5bcf97dfb6eb0917e7e0",
     "url": "/slot-matching-app/index.html"
   },
   {
-    "revision": "1797b457c3b2f49bc375",
+    "revision": "14ea94e6fadb6395f3dc",
     "url": "/slot-matching-app/static/css/main.e3b2d93a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/slot-matching-app/static/js/2.52654b68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1797b457c3b2f49bc375",
-    "url": "/slot-matching-app/static/js/main.fefd982b.chunk.js"
+    "revision": "14ea94e6fadb6395f3dc",
+    "url": "/slot-matching-app/static/js/main.593d9f19.chunk.js"
   },
   {
     "revision": "5e0d0ea95ec096bdfd57",
