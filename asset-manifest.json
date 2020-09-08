@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/slot-matching-app/static/css/main.e3b2d93a.chunk.css",
-    "main.js": "/slot-matching-app/static/js/main.ac098d96.chunk.js",
-    "main.js.map": "/slot-matching-app/static/js/main.ac098d96.chunk.js.map",
+    "main.js": "/slot-matching-app/static/js/main.fefd982b.chunk.js",
+    "main.js.map": "/slot-matching-app/static/js/main.fefd982b.chunk.js.map",
     "runtime-main.js": "/slot-matching-app/static/js/runtime-main.219f948e.js",
     "runtime-main.js.map": "/slot-matching-app/static/js/runtime-main.219f948e.js.map",
     "static/js/2.52654b68.chunk.js": "/slot-matching-app/static/js/2.52654b68.chunk.js",
     "static/js/2.52654b68.chunk.js.map": "/slot-matching-app/static/js/2.52654b68.chunk.js.map",
     "index.html": "/slot-matching-app/index.html",
-    "precache-manifest.4f21a2cff4b8be7673fed843a02e4109.js": "/slot-matching-app/precache-manifest.4f21a2cff4b8be7673fed843a02e4109.js",
+    "precache-manifest.a47fc974611375d06f03a0488d6ffa9b.js": "/slot-matching-app/precache-manifest.a47fc974611375d06f03a0488d6ffa9b.js",
     "service-worker.js": "/slot-matching-app/service-worker.js",
     "static/css/main.e3b2d93a.chunk.css.map": "/slot-matching-app/static/css/main.e3b2d93a.chunk.css.map",
     "static/js/2.52654b68.chunk.js.LICENSE.txt": "/slot-matching-app/static/js/2.52654b68.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.219f948e.js",
     "static/js/2.52654b68.chunk.js",
     "static/css/main.e3b2d93a.chunk.css",
-    "static/js/main.ac098d96.chunk.js"
+    "static/js/main.fefd982b.chunk.js"
   ]
 }
